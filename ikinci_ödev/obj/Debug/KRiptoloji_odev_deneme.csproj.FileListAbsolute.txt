@@ -1,0 +1,50 @@
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\KRiptoloji_odev_deneme.exe.config
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\KRiptoloji_odev_deneme.exe
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\KRiptoloji_odev_deneme.pdb
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.csproj.AssemblyReference.cache
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.Properties.Resources.resources
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.csproj.GenerateResource.cache
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.csproj.CoreCompileInputs.cache
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.exe
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.pdb
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.exe.config
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\MailKit.dll
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\MailKit.pdb
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\MimeKit.dll
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\MimeKit.pdb
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Buffers.dll
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Formats.Asn1.dll
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Memory.dll
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.ValueTuple.dll
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptolo.B2D68D8E.Up2Date
+C:\Users\melek\Desktop\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.Form1.resources
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\KRiptoloji_odev_deneme.exe.config
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\KRiptoloji_odev_deneme.exe
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\KRiptoloji_odev_deneme.pdb
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\MailKit.dll
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\MailKit.pdb
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\MimeKit.dll
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\MimeKit.pdb
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Buffers.dll
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Formats.Asn1.dll
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Memory.dll
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\bin\Debug\System.ValueTuple.dll
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.csproj.AssemblyReference.cache
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.exe.config
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.Form1.resources
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.Properties.Resources.resources
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.csproj.GenerateResource.cache
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.csproj.CoreCompileInputs.cache
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptolo.B2D68D8E.Up2Date
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.exe
+C:\Users\melek\Desktop\zip kipt\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme (3)\KRiptoloji_odev_deneme\KRiptoloji_odev_deneme\obj\Debug\KRiptoloji_odev_deneme.pdb

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\melek\\Desktop\\zip kipt\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme (3)\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\melek\\Desktop\\zip kipt\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme (3)\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\melek\\Desktop\\zip kipt\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme (3)\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme.csproj",
+        "projectName": "KRiptoloji_odev_deneme",
+        "projectPath": "C:\\Users\\melek\\Desktop\\zip kipt\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme (3)\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme.csproj",
+        "packagesPath": "C:\\Users\\melek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\melek\\Desktop\\zip kipt\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme (3)\\KRiptoloji_odev_deneme\\KRiptoloji_odev_deneme\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\melek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
